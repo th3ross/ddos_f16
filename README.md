@@ -8,17 +8,19 @@
 # git clone https://github.com/th3ross/ddos_f16.git
 ```
 
-### COMPILE
-```
-# gcc f16.c -o ddos_f16-master
-```
 ### To enter
 
  ```
 # cd ddos_f16-master
 ```
+
+### COMPILE
+```
+# gcc f16.c -o ddos_f16-master
+```
+
  
 ### RUNNING
 ```
-# ./xerxes www.facebook.com 80
+# ./ddos_f16-master URL 80
 ```
