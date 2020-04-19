@@ -1,4 +1,4 @@
-/* XerXes - Most powerful dos tool */
+/* ddos_f16 - Most powerful dos tool */
 
 #include <stdio.h>
 #include <stdlib.h>
