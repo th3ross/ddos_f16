@@ -10,7 +10,7 @@
 
 ### COMPILE
 ```
-# gcc xerxes.c -o xerxes
+# gcc f16.c -o ddos_f16-master
 ```
 ### To enter
 
