@@ -14,7 +14,7 @@
 ```
  
  ```
-# cd ddos_f16
+# cd ddos_f16-master
 ```
  
 ### RUNNING
