@@ -12,7 +12,11 @@
 ```
 # gcc xerxes.c -o xerxes
 ```
-
+ 
+ ```
+# cd ddos_f16
+```
+ 
 ### RUNNING
 ```
 # ./xerxes www.facebook.com 80
